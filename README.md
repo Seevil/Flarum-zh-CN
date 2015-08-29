@@ -10,4 +10,4 @@
 
 #License
 
-Released under the MIT License. Please see the [LICENSE](/master/LICENSE)file.
+Released under the MIT License. Please see the [LICENSE](/LICENSE)file.
