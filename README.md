@@ -2,7 +2,8 @@
  基于 https://github.com/jsthon/Flarum-zh-CN/
 
 **本分支特点：**
-1.完全本地化
+1.完全本地化 
+
 2.更简洁的词句 
  
 **使用说明：**  
